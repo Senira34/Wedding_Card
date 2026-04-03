@@ -69,7 +69,7 @@ export default function Footer() {
         {/* Names */}
         <motion.h2 initial={{ opacity: 0, y: 20 }} animate={inView ? { opacity: 1, y: 0 } : {}} transition={{ duration: 0.8 }}
           className="font-playfair font-bold mb-1.5" style={{ fontSize: "clamp(1.8rem, 5vw, 2.8rem)", color: "#6b4c3b" }}>
-          Aria & Ethan
+          Pabasara & Malki
         </motion.h2>
 
         <motion.p initial={{ opacity: 0, y: 12 }} animate={inView ? { opacity: 1, y: 0 } : {}} transition={{ duration: 0.8, delay: 0.12 }}
@@ -124,7 +124,7 @@ export default function Footer() {
 
         {/* Copyright */}
         <p className="font-inter text-xs opacity-30" style={{ color: "#6b4c3b" }}>
-          Made with ♥ for Aria & Ethan · 2026
+          Made with ♥ for Pabasara & Malki · 2026
         </p>
       </div>
 

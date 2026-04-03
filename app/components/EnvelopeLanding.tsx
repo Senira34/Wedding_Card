@@ -176,7 +176,7 @@ export default function EnvelopeLanding({ onOpen }: EnvelopeLandingProps) {
                       className="font-playfair text-lg italic text-center opacity-60"
                       style={{ color: "#c9a96e" }}
                     >
-                      Aria & Ethan
+                      Pabasara & Malki
                     </p>
                     <div
                       className="w-3/4 h-px opacity-20"
