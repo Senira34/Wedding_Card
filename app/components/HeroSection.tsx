@@ -86,12 +86,12 @@ export default function HeroSection() {
           className="font-playfair font-bold leading-none mb-4"
           style={{ fontSize: "clamp(2.8rem, 9vw, 6.5rem)", color: "#6b4c3b", letterSpacing: "-0.02em" }}
         >
-          Aria
+          Pabasara
           <span className="font-cormorant italic font-light mx-2 md:mx-4 inline-block"
             style={{ fontSize: "clamp(2rem, 6.5vw, 4.5rem)", color: "#d4788a" }}>
             &
           </span>
-          Ethan
+          Malki
         </motion.h1>
 
         {/* Tagline */}
